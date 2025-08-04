@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 💻 As a programmer who is still unfamiliar with many things<br>- 🤖 Currently exploring **Lua, C, C++,C#**<br>- 🎯 2025 Goals: Have a better understanding of many other programming languages</p>
+<h4 align="left">- 💻 As a programmer who is still unfamiliar with many things<br>- 🤖 Currently exploring **Lua, C, C++,C#**<br>- 🎯 2025 Goals: Have a better understanding of many other programming languages</h4>
 
 ###
 
